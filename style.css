@@ -1,0 +1,37 @@
+.nav {
+    width: 100%;
+    text-align: center;
+}
+
+
+/* .nav input {
+    display: block;
+    margin-bottom: 10px;
+    padding: 5px;
+    border-radius: 5px;
+} */
+
+li {
+    display: inline-block;
+    padding-right: 70px;
+    margin: 10px 10px 10px 10px;
+}
+
+a {
+    text-decoration: none;
+}
+
+.displayImg {
+   align-content: center;
+}
+
+/* .container input:hover{
+    background-color: tomato;
+    color: white;
+}
+
+body {
+    background-image: url(./);
+    background-repeat: no-repeat;
+    background-size: cover ;
+} */
